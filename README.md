@@ -1,6 +1,6 @@
 # Hulu-Clone
 
-This is a simplified clone version of the original hulu ( https://www.hulu.com ) website. This simplified clone version was created using HTML, CSS & JS
+This is a simplified clone version of the original hulu ( https://www.hulu.com ) website. This simplified clone version was created using HTML, CSS & JS. Live Preview is available as well.
 
 ## Screenshots
 
